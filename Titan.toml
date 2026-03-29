@@ -1,0 +1,8 @@
+[about]
+name = "Titan"
+avatar = "Titan.png"
+hobbies = ["programming","badminton","eating"]
+skills = ["C", "Python"]
+
+[social]
+github = "Alpha7297"
