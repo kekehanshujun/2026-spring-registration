@@ -1,9 +1,0 @@
-[about]
-name = "sifer"
-avatar = "sifer.png"
-hobbies = ["Eating", "Sleeping", "Programming", "Ping-pong"]
-skills = ["Ops", "Python"]
-
-[social]
-github = "Chen571428"
-website = "https://blog.statinfer.icu"
