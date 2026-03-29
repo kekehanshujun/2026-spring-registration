@@ -1,0 +1,8 @@
+[about]
+name = "NewSunH"
+avatar = "newsunh.jpg"
+hobbies = ["Eating", "Sleeping", "Programming", "Ping-pong", "ACG"]
+skills = ["Ops", "Python", "Linux"]
+
+[social]
+github = "NewSunH"
